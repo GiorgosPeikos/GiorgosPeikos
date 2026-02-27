@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Georgios%20Peikos&fontSize=40&fontColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Georgios%20Peikos&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
