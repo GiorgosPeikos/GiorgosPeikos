@@ -1,9 +1,8 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Georgios%20Peikos&fontSize=44&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <b>Search & NLP Researcher | Retrieval Augmented Generation | Trustworthy AI</b>
+  <b>Search & NLP Researcher · Retrieval Augmented Generation · Trustworthy AI</b><br/>
+  <a href="https://giorgospeikos.github.io/">Website</a> ·
+  <a href="https://scholar.google.com/citations?user=-0ObuR0AAAAJ&hl=en">Google Scholar</a> ·
+  <a href="https://www.linkedin.com/in/peikosgeorgios/">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -51,7 +50,7 @@ Includes:
 - Clinical trial retrieval
 - Query representation for medical IR
 - Neural reranking and score aggregation
-- Professional search system design
+- Professional search system design (prototype)
 
 Frameworks:
 PyTorch, Transformers, Elasticsearch, custom IR pipelines
@@ -62,7 +61,6 @@ PyTorch, Transformers, Elasticsearch, custom IR pipelines
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks**  
