@@ -9,17 +9,6 @@
   <a href="https://www.linkedin.com/in/peikosgeorgios/">LinkedIn</a>
 </p>
 
-## GitHub snapshot
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GiorgosPeikos&show_icons=true&hide_title=true&rank_icon=github" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosPeikos&layout=compact&hide_title=true" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=GiorgosPeikos" />
-</p>
-
 # About
 
 I design and implement retrieval-centered AI systems that combine Information Retrieval and Large Language Models.
