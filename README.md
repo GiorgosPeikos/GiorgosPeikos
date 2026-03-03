@@ -62,22 +62,6 @@ Selected private work includes:
 - **LLM training on a distributed cluster** (training and infrastructure work for efficient experimentation)
 - **phenotype_benchmarking** (benchmarking LLMs for medical information extraction and question answering)
 
-# Technical Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks**  
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-111111?style=for-the-badge&logo=huggingface&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-111111?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Tooling**  
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
-
 **Focus**  
 `RAG` · `Semantic search` · `Ranking` · `Conversational search` · `Trustworthy AI`
 
