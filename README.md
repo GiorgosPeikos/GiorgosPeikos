@@ -6,7 +6,7 @@
   <b>Search & NLP Researcher · Retrieval Augmented Generation · Trustworthy AI</b><br/>
   <a href="https://giorgospeikos.github.io/">Website</a> ·
   <a href="https://scholar.google.com/citations?user=-0ObuR0AAAAJ&hl=en">Google Scholar</a> ·
-  <a href="https://www.linkedin.com/in/peikosgeorgios/">LinkedIn</a>
+  <a href="[https://www.linkedin.com/in/peikosgeorgios/](https://www.linkedin.com/in/peikosgeorgios/)">LinkedIn</a>
 </p>
 
 # About
