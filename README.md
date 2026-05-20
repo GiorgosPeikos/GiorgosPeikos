@@ -16,6 +16,17 @@
 I design and implement retrieval-centered AI systems that combine Information Retrieval, Large Language Models, semantic search, ranking, and evaluation.  
 This GitHub profile collects selected research artifacts, open-source systems, benchmarks, teaching material, and infrastructure code developed across my work on healthcare AI, RAG, LLM training, and retrieval evaluation.
 
+<p align="center">
+Research systems and technical artifacts spanning:
+<br/><br/>
+🔹 Medical RAG Systems
+🔹 Semantic Retrieval
+🔹 Trustworthy AI
+🔹 LLM Training
+🔹 Evaluation Frameworks
+🔹 Information Retrieval
+</p>
+
 ---
 
 ## Medical and Clinical AI Systems
@@ -34,7 +45,7 @@ Research systems for clinical information access, medical Retrieval Augmented Ge
   <img src="https://img.shields.io/badge/Factuality-8A63D2?style=flat-square" />
 </p>
 
-Factuality-aware medical RAG framework that reranks retrieved evidence using both topical relevance and factual reliability before LLM generation.
+Demonstrates trustworthy medical RAG pipelines combining semantic retrieval, reranking, and factuality-aware evidence verification.
 
 <a href="https://github.com/tommasoBazzocchi869095/FRAG">Repository</a>
 
