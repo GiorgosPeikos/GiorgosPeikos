@@ -63,7 +63,7 @@ Demonstrates trustworthy medical RAG pipelines combining semantic retrieval, rer
 Biomedical retrieval and generation systems for medical question answering and BioASQ-style evaluation workflows.
 
 <a href="https://github.com/mitruhaa/bioasq_systems">Repository</a>
-<sub>Effective for biomedical question answering workflows.</sub>
+<note>Effective for biomedical question answering workflows.</note>
 
 </td>
 </tr>
@@ -169,7 +169,7 @@ Nanotron-based training utilities for small language model experiments, includin
 
 Training and experimentation workflows for domain-specific small and mid-scale language models, with emphasis on reproducible execution on multi-GPU HPC infrastructure.
 
-<sub>Public-facing repository under preparation.</sub>
+<sub>Public repository under preparation.</sub>
 
 </td>
 </tr>
