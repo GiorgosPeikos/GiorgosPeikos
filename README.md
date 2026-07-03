@@ -65,6 +65,8 @@ Biomedical retrieval and generation systems for medical question answering and B
 <a href="https://github.com/mitruhaa/bioasq_systems">Repository</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Fact-driven Health Information Retrieval
