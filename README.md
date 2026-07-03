@@ -63,7 +63,6 @@ Demonstrates trustworthy medical RAG pipelines combining semantic retrieval, rer
 Biomedical retrieval and generation systems for medical question answering and BioASQ-style evaluation workflows.
 
 <a href="https://github.com/mitruhaa/bioasq_systems">Repository</a>
-<note>Effective for biomedical question answering workflows.</note>
 
 </td>
 </tr>
