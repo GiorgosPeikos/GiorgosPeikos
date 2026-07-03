@@ -62,11 +62,9 @@ Demonstrates trustworthy medical RAG pipelines combining semantic retrieval, rer
 
 Biomedical retrieval and generation systems for medical question answering and BioASQ-style evaluation workflows.
 
-<a href="https://github.com/mitruhaa/bioasq_systems">Repository</a> <br/>
+<a href="https://github.com/mitruhaa/bioasq_systems">Repository</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Fact-driven Health Information Retrieval
